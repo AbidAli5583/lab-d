@@ -19,8 +19,7 @@
                             data-type="text" 
                             data-responsive_offset="on" 
                             data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                            data-textAlign="['left','left','left','left','left','center']" style="font-size: 68px;">Take Control of your business<br/>with our World Class Services</div>
-                            
+                            data-textAlign="['left','left','left','left','left','center']" style="font-size: 68px;">Take Control of your business<br/>with our World Class Services</div> 
                             <div class="tp-caption tp-resizeme secand_text" 
                                 data-x="['left','left','left','left','15','center']" 
                                 data-hoffset="['0','80','80','0']" 
@@ -36,8 +35,7 @@
                                 data-transform_idle="o:1;"
                                 data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                                 data-textAlign="['left','left','left','left','left','center']">
-                            </div>
-                            
+                            </div> 
                             <div class="tp-caption tp-resizeme" 
                                 data-x="['left','left','left','left','15','center']" data-hoffset="['0','80','80','0']" 
                                 data-y="['top','top','top','top']" 
@@ -50,7 +48,7 @@
                                 data-type="text" 
                                 data-responsive_offset="on" 
                                 data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]">
-                                <a class="more_btn" href="#">Book Appointment</a>
+                                <a class="more_btn" href="{{url('contact-us')}}">Book Appointment</a>
                             </div>
                             <div class="tp-caption tp-resizeme single_img" 
                             data-x="['right','right','right','right','right','right']" 
@@ -89,8 +87,7 @@
                             data-type="text" 
                             data-responsive_offset="on" 
                             data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
-                            data-textAlign="['left','left','left','left','left','center']">Take Control of your business<br/>with our World Class Services</div>
-                            
+                            data-textAlign="['left','left','left','left','left','center']">We help businesses grow to<br>their dreams with our services.</div>   
                             <div class="tp-caption tp-resizeme secand_text" 
                                 data-x="['left','left','left','left','15','center']" 
                                 data-hoffset="['0','80','80','0']" 
@@ -120,7 +117,7 @@
                                 data-type="text" 
                                 data-responsive_offset="on" 
                                 data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]">
-                                <a class="more_btn" href="#">Book Appointment</a>
+                                <a class="more_btn" href="{{url('contact-us')}}">Book Appointment</a>
                             </div>
                             <div class="tp-caption tp-resizeme single_img" 
                             data-x="['right','right','right','right','right','right']" 
@@ -160,7 +157,6 @@
                             data-responsive_offset="on" 
                             data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]"
                             data-textAlign="['left','left','left','left','left','center']">Take Control of your business<br/>with our World Class Services</div>
-                            
                             <div class="tp-caption tp-resizeme secand_text" 
                                 data-x="['left','left','left','left','15','center']" 
                                 data-hoffset="['0','80','80','0']" 
@@ -190,7 +186,7 @@
                                 data-type="text" 
                                 data-responsive_offset="on" 
                                 data-frames="[{&quot;delay&quot;:10,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;y:[175%];&quot;,&quot;mask&quot;:&quot;x:inherit;y:inherit;s:inherit;e:inherit;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;}]">
-                                <a class="more_btn" href="#">Book Appointment</a>
+                                <a class="more_btn" href="{{url('contact-us')}}">Book Appointment</a>
                             </div>
                             <div class="tp-caption tp-resizeme single_img" 
                             data-x="['right','right','right','right','right','right']" 
@@ -219,7 +215,7 @@
         <section class="feature_area">
             <div class="container">
                 <div class="c_title">
-                    <img src="img/icon/title-icon.png" alt="">
+                    <img src="img/labd-menu.png" alt="" style="height: 225px; margin-bottom: -50px;">
                     <h6>Best IT Solution</h6>
                     <h2>We help businesses grow to their dreams with our services.</h2>
                 </div>
@@ -230,7 +226,7 @@
                                 <img src="img/icon/f-icon-1.png" alt="">
                             </div>
                             <h4>Web Development</h4>
-                            <p><i>We provide quality web development services from a simple portfolio website to a highly efficient tech solutions.</i> </p>
+                            <p style="text-align: left; font-family: 'Noticia Text', serif;">We provide quality web development services from a simple portfolio website to a highly efficient tech solutions.</p>
                             <a class="more_btn" href="#">Read More</a>
                         </div>
                     </div>
@@ -240,7 +236,7 @@
                                 <img src="img/icon/f-icon-2.png" alt="">
                             </div>
                             <h4>App Development</h4>
-                            <p><i>With the increasing demand of mobile and mobile apps we are thrilled to build hundreds of apps for our clients with leading technologies.</i> </p>
+                            <p style="text-align: left; font-family: 'Noticia Text', serif;">With the increasing demand of mobile and mobile apps we are thrilled to build hundreds of apps for our clients with leading technologies.</p>
                             <a class="more_btn" href="#">Read More</a>
                         </div>
                     </div>
@@ -250,7 +246,7 @@
                                 <img src="img/icon/f-icon-3.png" alt="">
                             </div>
                             <h4>Digital Marketing</h4>
-                            <p><i>As the market gets competitive, we get tougher too. We have build many marketing techniques to let our clients reach their target audience and the numbers.</i></p>
+                            <p style="text-align: left; font-family: 'Noticia Text', serif;">As the market gets competitive, we get tougher too. We have build many marketing techniques to let our clients reach their target audience and the numbers.</p>
                             <a class="more_btn" href="#">Read More</a>
                         </div>
                     </div>
@@ -265,53 +261,53 @@
                 <div class="shap_slider_inner owl-carousel">
                     <div class="item">
                         <h4>“Trusted by Our Clients”</h4>
-                        <p>LabD guys are well experienced in Development, they helped me a lot to make my idea become reality. Now my OpenHeart app is booming. Thank you Guys</p>
+                        <p style="text-align: left; font-family: 'Noticia Text', serif;">LabD guys are well experienced in Development, they helped me a lot to make my idea become reality. Now my OpenHeart app is booming. Thank you Guys!</p>
                         <div class="media">
                             <img src="img/team/people/people-5.jpg" alt="">
                             <div class="media-body">
                                 <h5>Priscila Markus</h5>
-                                <h5>Kyle Hoffman</h5>
-                                <h5>Jason Myles</h5>
+                                <!-- <h6>CEO Enterprise</h6> -->
+
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="item">
+                    <div class="item">
                         <h4>“They are the best”</h4>
-                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+                        <p style="text-align: left; font-family: 'Noticia Text', serif;">Very good communication and a lot of experience in Digital Marketing. Guys has let me reach 10M in just 2 months. Highly recommended.</p>
                         <div class="media">
                             <img src="img/team/people/people-5.jpg" alt="">
                             <div class="media-body">
-                                <h5>Chriss Turner</h5>
-                                <h6>CEO Enterprise</h6>
+                                <h5>Kyle Hoffman</h5>
+                                <!-- <h6>CEO Enterprise</h6> -->
                             </div>
                         </div>
-                    </div> -->
-<!--                     <div class="item">
+                    </div>
+                    <div class="item">
                         <h4>“They are the best”</h4>
-                        <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mattis effic iturut magna. Pellentesque sit am et tellus.</p>
+                        <p style="text-align: left; font-family: 'Noticia Text', serif;">I had a great experience working with LabD Tech for my streaming application . very professional and dedicated to their work. Keep up the good work.</p>
                         <div class="media">
                             <img src="img/team/people/people-5.jpg" alt="">
                             <div class="media-body">
-                                <h5>Chriss Turner</h5>
-                                <h6>CEO Enterprise</h6>
+                                <h5>Jason Myles</h5>
+                                <!-- <h6>CEO Enterprise</h6> -->
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <div class="right_text">
                 <div class="right_text_inner">
                     <div class="text_3d">
                         <div class="l_title">
-                            <img src="img/icon/title-icon.png" alt="">
+                            <img src="img/labd-menu.png" alt="" style="height: 225px; margin-bottom: -50px; margin-left: -100px;">
                             <h6>About Us</h6>
                             <h2>We are here to help!</h2>
                         </div>
-                        <p><i>Through out the years of hard work and dedication we have gathered up the team of highly passionate individuals who brings the best out.
-                        Our mission is provide quality services to our clients to grow their business. we believe that when our clients' business will grow our business will grow.</i> </p>
+                        <p style="text-align: left; font-family: 'Noticia Text', serif;">Through out the years of hard work and dedication we have gathered up the team of highly passionate individuals who brings the best out.
+                        Our mission is provide quality services to our clients to grow their business. we believe that when our clients' business will grow our business will grow.</p>
                     </div>
                     <div class="shap_mobile">
-                        <img src="img/iphone4.png" alt="">
+                        <img src="img/labd-image3.jpg" alt="" style="height: 286px; width: 286px; margin-top: 230px;">
                     </div>
                 </div>
             </div>
@@ -325,10 +321,10 @@
                     <div class="col-lg-6">
                         <div class="team_people_text">
                             <div class="l_title">
-                                <img src="img/icon/title-icon.png" alt="">
+                                <img src="img/labd-menu.png" alt="" style="height: 225px; margin-bottom: -50px; margin-left: -100px;">
                                 <h2>Why Choose Us?</h2>
                                 <br></br>
-                                <h6><i>We are well-experienced IT professionals with young minds.</i></h6>
+                                <h5 style="text-align: left; font-family: 'Noticia Text', serif;">We are well-experienced IT professionals with young minds.</h5>
                             </div>
                             <h5><i>Passion & Commitment</i></h5>
                             <br>
@@ -339,7 +335,6 @@
                             <h5><i>Dedicated Team</i></h5>
                             <br>
                             <h5><i>Practical Approach</i></h5>
-
                             <!-- <ul>
                                 <li><a href="#">Nunc nec maximus dui, </a></li>
                                 <li><a href="#">Aenean pellentesque elit vitae</a></li>
@@ -354,7 +349,7 @@
                             <div class="row">
                                 <div class="col-lg-6 col-6">
                                     <div class="team_img_item">
-                                        <img src="img/team/people/people-1.jpg" alt="">
+                                        <img src="img/company-team.jpg" alt="" style="height: 292px;">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-6">
@@ -364,12 +359,12 @@
                                 </div>
                                 <div class="col-lg-6 col-6">
                                     <div class="team_img_item">
-                                        <img src="img/team/people/people-3.jpg" alt="">
+                                        <img src="img/about-us4.jpg" alt="" style="height: 286px; width: 286px;">
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-6">
                                     <div class="team_img_item">
-                                        <img src="img/team/people/people-4.jpg" alt="">
+                                        <img src="img/team-hands.jpg" alt="" style="height: 286px; width: 286px;">
                                     </div>
                                 </div>
                             </div>
@@ -381,7 +376,7 @@
         <!--================End Team People Area =================-->
         
         <!--================Get in Touch Area =================-->
-        <section class="get_in_touch_area">
+       <!--  <section class="get_in_touch_area">
             <div class="container">
                 <div class="row get_touch_inner">
                     <div class="col-lg-6">
@@ -420,7 +415,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--================End Get in Touch Area =================-->
         
         <!--================Map Area =================-->
@@ -429,9 +424,9 @@
                 <div class="world_map_inner">
                     <img class="img-fluid" src="img/world-map.png" alt="">
                     <div class="bd-callout">
-                        <h3>LabD Software house</h3>
+                        <h3>LabD IT Solution Lab</h3>
                         <p>Office 505, Icon1 Plaza, Trade Center, Gulberg Green Islamabad.<br /> Pakistan</p>
-                        <h4><a href="#">+923114937410</a> <a href="#">contact@template.com</a></h4>
+                        <h4><a href="#">+923114937410</a> <a href="#">taimoorbadar@gmail.com</a></h4>
                     </div>
                 </div>
             </div>

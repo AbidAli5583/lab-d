@@ -19,7 +19,13 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [App\Http\Controllers\LandingController::class, 'landing'])->name('landing');
 Route::get('/about-us', [App\Http\Controllers\LandingController::class, 'about_us'])->name('about-us');
 Route::get('/services', [App\Http\Controllers\LandingController::class, 'services'])->name('services');
-Route::get('/contact', [App\Http\Controllers\LandingController::class, 'contact'])->name('contact');
+Route::get('/contact-us', [App\Http\Controllers\LandingController::class, 'contact'])->name('contact');
+
+
+/////////////////////////////////////Landing Contact////////////////////////////////////
+
+Route::post('contactus',[App\Http\Controllers\MailController::class, 'sendemail']);
+Route::get('view-mails',[App\Http\Controllers\MailController::class, 'viewmails']);
 
 
 
